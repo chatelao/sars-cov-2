@@ -5,3 +5,11 @@
 
 Eine kleine Übersicht zu SARS-CoV-2
 ###################################
+
+tbd: Gensequenz
+tbd: Virusbild CC
+tbd: Genom Übersicht
+tbd: Protein Expressions + Links zur PDB
+
+tbd: ACE2, TMPRSS2, ADAM2
+tbd: Pathways
