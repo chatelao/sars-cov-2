@@ -6,6 +6,11 @@
 Eine kleine Übersicht zu SARS-CoV-2
 ###################################
 
+
+.. image:: 00_images/Coronavirus._SARS-CoV-2.png
+   :width: 300 px
+
+
 .. readme-next-page-do-not-remove
 
 tbd: Gensequenz
