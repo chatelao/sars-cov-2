@@ -19,6 +19,11 @@ Das Genom
 Die zugehörigen Proteine
 ========================
 
+.. image:: 00_images/msb202010079-fig-0001-m.jpg
+   :width: 600 px
+
+https://zhanggroup.org/COVID-19/
+
 .. readme-next-page-do-not-remove
 
 tbd: Gensequenz
@@ -468,3 +473,7 @@ https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3
    GATCGAGTGTACAGTGAACAATGCTAGGGAGAGCTGCCTATATGGAAGAGCCCTAATGTGTAAAATTAAT
    TTTAGTAGTGCTATCCCCATGTGATTTTAATAGCTTCTTAGGAGAATGACAAAAAAAAAAAAAAAAAAAA
    AAAAAAAAAAAAA
+
+.. image:: 00_images/covid2_small2.gif
+   :width: 600 px
+
